@@ -1,6 +1,6 @@
 # Hi, I'm Bastian 👋 👨🏻‍💻
 
-[![Banner](./assets/welcome.png)](#)
+![As a software engineer I like to get things done.](https://raw.githubusercontent.com/bst27/bst27/master/assets/welcome.png)
 
 I'm a software engineer who is passionate about driving the digital transformation,
 creating convincing solutions and building solid, sustainable software.
