@@ -2,29 +2,52 @@
 
 ![As a software engineer I like to get things done.](https://raw.githubusercontent.com/bst27/bst27/master/assets/welcome.png)
 
-I'm a software engineer who is passionate about driving the digital transformation,
+I'm a web developer who is passionate about driving the digital transformation,
 creating convincing solutions and building solid, sustainable software.
-Some technologies I enjoy working with include PHP, Go and Amazon Web Services. 
-I recently started to explore Flutter and Dart for app development.
+Some technologies I enjoy working with include PHP and the TALL-Stack: Tailwind CSS,
+Alpine.js, Laravel, Livewire.
 
 I spend most of my time working on closed-source projects as a freelancer. Nevertheless, I
 try to get deeper into open-source projects from time to time. You can explore
 some results of this effort on my Github profile.
 
-# Toolbox for the magic ⚡
-I have experience with the following tech-stack. Comprehensibly my knowledge is not top-notch
-and up-to-date in every topic:
-
-Atlassian · Amazon Web Services · Bootstrap · C# · CSS · Dart · DigitalOcean · Docker · ExtJS
-· Flutter · Git · Go · GoLand · GraphQL · headless CMS · HTTP · HTML · JavaScript · jQuery · Linux ·
-macOS · MSBuild · MS SQL Server · MySQL · PHP · PhpStorm · Powershell · React · Redux · REST ·
-serverless · SEO · SVN · Swift · TypeScript · Uberspace · VirtualBox · VMware Workstation ·
-Windows · Xcode
+# Things I worked with 🚀
+* Agile Environment
+* Alpine.js
+* Amazon Web Services
+* Azure Cloud
+* Bootstrap CSS
+* CSS
+* Codeception
+* Continuous-Integration und -Delivery (CI / CD)
+* Docker
+* ExtJS
+* Git
+* Gitlab
+* HTML
+* HTTP
+* JavaScript
+* jQuery
+* Laravel
+* Linux
+* Livewire
+* MSSQL
+* MySQL
+* OWASP
+* PHP (PHP-Storm, PHP-Unit, PHP-Stan)
+* REST-APIs
+* SEO
+* Selenium
+* Software-Tests
+* Swagger (OpenAPI)
+* Symfony
+* Tailwind CSS
+* Twig
+* TypeScript
+* Vue.js
+* Zend / Laminas
 
 # Find me around the web 🌍
-I like sharing updates on [Twitter][twitter]. If you are interested in some opinionated
-insights about tech-stuff, a digital lifestyle and earning money with it you
-can visit my [digitalPush][website] website.
+* My website at [digitalpush.net][website]
 
 [website]: https://www.digitalpush.net
-[twitter]: https://twitter.com/bastianroesmann
