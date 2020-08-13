@@ -12,12 +12,15 @@ try to get deeper into open-source projects from time to time. You can explore
 some results of this effort on my Github profile.
 
 # Toolbox for the magic ⚡
-I have experience with the following tech-stack. Comprehensibly my knowledge is not top-notch
-and up-to-date in every topic:
+As a software engineer I am crafting solutions with the following tech-stack:
 
-Atlassian · Amazon Web Services · Bootstrap · C# · CSS · Dart · DigitalOcean · Docker · ExtJS
-· Flutter · Git · Go · GoLand · GraphQL · headless CMS · HTTP · HTML · JavaScript · jQuery · Linux ·
-macOS · MSBuild · MS SQL Server · MySQL · PHP · PhpStorm · Powershell · React · Redux · REST ·
+<strong>Go · PHP · MySQL · Amazon Web Services</strong>
+
+If it comes in handy I also make use of my experience with the following technologies:
+
+Atlassian · Bootstrap · C# · CSS · Dart · DigitalOcean · Docker · ExtJS
+· Flutter · Git · GoLand · GraphQL · headless CMS · HTTP · HTML · JavaScript · jQuery · Linux ·
+macOS · MSBuild · MS SQL Server · PhpStorm · Powershell · React · Redux · REST ·
 serverless · SEO · SVN · Swift · TypeScript · Uberspace · VirtualBox · VMware Workstation ·
 Windows · Xcode
 
