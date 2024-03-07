@@ -49,5 +49,7 @@ some results of this effort on my Github profile.
 
 # Find me around the web 🌍
 * My website at [digitalpush.net][website]
+* My freelancer profile at [malt.de][malt]
 
 [website]: https://www.digitalpush.net
+[malt]: https://www.malt.de/profile/bastianroesmann
