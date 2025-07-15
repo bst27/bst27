@@ -1,55 +1,38 @@
 # Hi, I'm Bastian 👋 👨🏻‍💻
 
-![As a software engineer I like to get things done.](https://raw.githubusercontent.com/bst27/bst27/master/assets/welcome.png)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bst27&theme=default)
 
-I'm a web developer who is passionate about driving the digital transformation,
-creating convincing solutions and building solid, sustainable software.
-Some technologies I enjoy working with include PHP and the TALL-Stack: Tailwind CSS,
-Alpine.js, Laravel, Livewire.
+## 🚀 About Me
+I’m a full-stack web developer who helps companies accelerate their digital transformation — from initial concept and architecture to production-ready, maintainable solutions. My core expertise lies in PHP-based systems paired with modern front-end and back-end technologies.
 
-I spend most of my time working on closed-source projects as a freelancer. Nevertheless, I
-try to get deeper into open-source projects from time to time. You can explore
-some results of this effort on my Github profile.
 
-# Things I worked with 🚀
-* Agile Environment
-* Alpine.js
-* Amazon Web Services
-* Azure Cloud
-* Bootstrap CSS
-* CSS
-* Codeception
-* Continuous-Integration und -Delivery (CI / CD)
-* Docker
-* ExtJS
-* Git
-* Gitlab
-* HTML
-* HTTP
-* JavaScript
-* jQuery
-* Laravel
-* Linux
-* Livewire
-* MSSQL
-* MySQL
-* OWASP
-* PHP (PHP-Storm, PHP-Unit, PHP-Stan)
-* REST-APIs
-* SEO
-* Selenium
-* Software-Tests
-* Swagger (OpenAPI)
-* Symfony
-* Tailwind CSS
-* Twig
-* TypeScript
-* Vue.js
-* Zend / Laminas
+## 🛠 Tech Stack
 
-# Find me around the web 🌍
-* My website at [digitalpush.net][website]
-* My freelancer profile at [malt.de][malt]
+### 💻 Languages
+- PHP
+- JavaScript / TypeScript
+- HTML & CSS
 
-[website]: https://www.digitalpush.net
-[malt]: https://www.malt.de/profile/bastianroesmann
+### ⚡ Frameworks & Libraries
+- Laravel & TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)
+- Symfony, Vue.js
+
+### ☁️ Cloud & Infrastructure
+- AWS, Microsoft Azure
+- Docker & Docker Compose
+- CI / CD (GitHub, GitLab)
+
+### 🗄 Databases & APIs
+- MySQL, SQL Server, Postgre SQL
+- RESTful APIs & OpenAPI
+
+### 🔍 Testing & Quality
+- PHPUnit, Codeception
+- Selenium for end-to-end tests
+- Static analysis: PHPStan, Psalm
+- OWASP security best practices
+
+## 📫 Let’s Connect
+- 🌐 [Website](https://www.digitalpush.net)
+- 💼 [Freelancer-Profile](https://www.malt.de/profile/bastianroesmann)
+
