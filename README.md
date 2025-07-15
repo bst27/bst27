@@ -1,6 +1,6 @@
 # Hi, I'm Bastian 👋 👨🏻‍💻
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bst27&theme=default)
+![As a software engineer I like to get things done.](https://raw.githubusercontent.com/bst27/bst27/master/assets/welcome.png)
 
 ## 🚀 About Me
 I’m a full-stack web developer who helps companies accelerate their digital transformation — from initial concept and architecture to production-ready, maintainable solutions. My core expertise lies in PHP-based systems paired with modern front-end and back-end technologies.
